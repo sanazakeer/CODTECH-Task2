@@ -13,6 +13,6 @@
 ### Objective:  
 This project is to build a serverless application with aws lambda.
 ### Technologies Used:  
-- Python 3.12  
+- Python 3.13  
 - AWS Lambda    
 - AWS S3  
